@@ -238,3 +238,4 @@ pip install -r requirements.txt
 - Naeem Siddiqi (2006). "Credit Risk Scorecards: Developing and Implementing Intelligent Credit Scoring"
 - Quarto Documentation: https://quarto.org
 
+# hanwhafinance
