@@ -135,7 +135,7 @@ Develop a **binary classification model** to predict whether retail banking cust
 
 - **Real-World Scenario** (2020 Q1 model):
   - Q1–Q2: PSI ≈ 0 (stable)
-  - Q3 2020: PSI = 0.254 (threshold breach) 🔴
+  - Q3 2020: PSI = 0.254 (threshold breach) 
   - Q4 2020 (Recession): PSI = 1.020; F1 drops 40%
   - Q1–Q2 2021 (Crisis): PSI = 1.975; income collapsed 25%; default rate tripled
 
