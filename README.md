@@ -158,7 +158,6 @@ A comprehensive 2–3 page technical report is available in **`report/report.qmd
 1. **Q1**: L1 regularization mechanism; multicollinearity comparison; production recommendation
 2. **Q2**: Accuracy paradox; F1/AUCPR justification; SMOTE vs cost-sensitive empirical comparison
 3. **Q3**: Bias-variance diagnosis; PSI/CSI mathematical formulation; hybrid retraining strategy
-4. **Implementation Roadmap**: 4-week deployment plan with monitoring automation
 
 **To render PDF**:
 ```bash
@@ -216,14 +215,6 @@ pip install -r requirements.txt
    ```
 
 ---
-## Regulatory Compliance
-
-- **Interpretability**: L1-penalized logistic regression is fully auditable; coefficients directly interpretable
-- **Fairness**: Class-weighted loss prevents bias toward majority class
-- **Monitoring**: Automated PSI/CSI alerts for model governance review
-- **Documentation**: All decisions logged for regulatory audit trail
-
----
 
 ## References
 
@@ -231,5 +222,3 @@ pip install -r requirements.txt
 - Chawla, N. V., et al. (2002). "SMOTE: Synthetic Minority Over-sampling Technique"
 - Naeem Siddiqi (2006). "Credit Risk Scorecards: Developing and Implementing Intelligent Credit Scoring"
 - Quarto Documentation: https://quarto.org
-
-# hanwhafinance
