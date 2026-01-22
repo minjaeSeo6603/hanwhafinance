@@ -1,11 +1,5 @@
 # Hanwha Investment & Securities - AI Data Scientist Case Study
 
-## Overview
-
-This repository contains comprehensive solutions to the **AI Data Scientist (Conversion Track)** case study from Hanwha Investment & Securities. The case study addresses three critical questions in building robust machine learning models for credit risk assessment: **feature selection with multicollinearity**, **class imbalance handling**, and **concept drift detection**.
-
----
-
 ## Statement of the Problem
 
 Develop a **binary classification model** to predict whether retail banking customers will default on loans, addressing:
